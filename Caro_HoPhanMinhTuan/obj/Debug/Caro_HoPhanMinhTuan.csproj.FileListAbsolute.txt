@@ -1,0 +1,12 @@
+D:\Hoc ky 1 nam 4\Lap trinh Windows\Caro_HoPhanMinhTuan\Caro_HoPhanMinhTuan\bin\Debug\Caro_HoPhanMinhTuan.exe.config
+D:\Hoc ky 1 nam 4\Lap trinh Windows\Caro_HoPhanMinhTuan\Caro_HoPhanMinhTuan\bin\Debug\Caro_HoPhanMinhTuan.exe
+D:\Hoc ky 1 nam 4\Lap trinh Windows\Caro_HoPhanMinhTuan\Caro_HoPhanMinhTuan\bin\Debug\Caro_HoPhanMinhTuan.pdb
+D:\Hoc ky 1 nam 4\Lap trinh Windows\Caro_HoPhanMinhTuan\Caro_HoPhanMinhTuan\obj\Debug\Caro_HoPhanMinhTuan.csproj.AssemblyReference.cache
+D:\Hoc ky 1 nam 4\Lap trinh Windows\Caro_HoPhanMinhTuan\Caro_HoPhanMinhTuan\obj\Debug\Caro_HoPhanMinhTuan.frmTuan.resources
+D:\Hoc ky 1 nam 4\Lap trinh Windows\Caro_HoPhanMinhTuan\Caro_HoPhanMinhTuan\obj\Debug\Caro_HoPhanMinhTuan.Properties.Resources.resources
+D:\Hoc ky 1 nam 4\Lap trinh Windows\Caro_HoPhanMinhTuan\Caro_HoPhanMinhTuan\obj\Debug\Caro_HoPhanMinhTuan.csproj.GenerateResource.cache
+D:\Hoc ky 1 nam 4\Lap trinh Windows\Caro_HoPhanMinhTuan\Caro_HoPhanMinhTuan\obj\Debug\Caro_HoPhanMinhTuan.csproj.CoreCompileInputs.cache
+D:\Hoc ky 1 nam 4\Lap trinh Windows\Caro_HoPhanMinhTuan\Caro_HoPhanMinhTuan\obj\Debug\Caro_HoPhanMinhTuan.exe
+D:\Hoc ky 1 nam 4\Lap trinh Windows\Caro_HoPhanMinhTuan\Caro_HoPhanMinhTuan\obj\Debug\Caro_HoPhanMinhTuan.pdb
+D:\Hoc ky 1 nam 4\Lap trinh Windows\Caro_HoPhanMinhTuan\Caro_HoPhanMinhTuan\obj\Debug\Caro_HoPhanMinhTuan.DangKy.resources
+D:\Hoc ky 1 nam 4\Lap trinh Windows\Caro_HoPhanMinhTuan\Caro_HoPhanMinhTuan\obj\Debug\Caro_HoPhanMinhTuan.History.resources
